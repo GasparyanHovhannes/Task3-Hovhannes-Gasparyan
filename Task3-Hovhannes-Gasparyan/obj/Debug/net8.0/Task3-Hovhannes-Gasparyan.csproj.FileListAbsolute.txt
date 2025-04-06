@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Task3-Hovhannes-Gasparyan\Task3-Hovhannes-Gasparyan\bin\Debug\net8.0\Task3-Hovhannes-Gasparyan.exe
+C:\Users\Asus\source\repos\Task3-Hovhannes-Gasparyan\Task3-Hovhannes-Gasparyan\bin\Debug\net8.0\Task3-Hovhannes-Gasparyan.deps.json
+C:\Users\Asus\source\repos\Task3-Hovhannes-Gasparyan\Task3-Hovhannes-Gasparyan\bin\Debug\net8.0\Task3-Hovhannes-Gasparyan.runtimeconfig.json
+C:\Users\Asus\source\repos\Task3-Hovhannes-Gasparyan\Task3-Hovhannes-Gasparyan\bin\Debug\net8.0\Task3-Hovhannes-Gasparyan.dll
+C:\Users\Asus\source\repos\Task3-Hovhannes-Gasparyan\Task3-Hovhannes-Gasparyan\bin\Debug\net8.0\Task3-Hovhannes-Gasparyan.pdb
+C:\Users\Asus\source\repos\Task3-Hovhannes-Gasparyan\Task3-Hovhannes-Gasparyan\obj\Debug\net8.0\Task3-Hovhannes-Gasparyan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Task3-Hovhannes-Gasparyan\Task3-Hovhannes-Gasparyan\obj\Debug\net8.0\Task3-Hovhannes-Gasparyan.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Task3-Hovhannes-Gasparyan\Task3-Hovhannes-Gasparyan\obj\Debug\net8.0\Task3-Hovhannes-Gasparyan.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Task3-Hovhannes-Gasparyan\Task3-Hovhannes-Gasparyan\obj\Debug\net8.0\Task3-Hovhannes-Gasparyan.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Task3-Hovhannes-Gasparyan\Task3-Hovhannes-Gasparyan\obj\Debug\net8.0\Task3-Hovhannes-Gasparyan.dll
+C:\Users\Asus\source\repos\Task3-Hovhannes-Gasparyan\Task3-Hovhannes-Gasparyan\obj\Debug\net8.0\refint\Task3-Hovhannes-Gasparyan.dll
+C:\Users\Asus\source\repos\Task3-Hovhannes-Gasparyan\Task3-Hovhannes-Gasparyan\obj\Debug\net8.0\Task3-Hovhannes-Gasparyan.pdb
+C:\Users\Asus\source\repos\Task3-Hovhannes-Gasparyan\Task3-Hovhannes-Gasparyan\obj\Debug\net8.0\Task3-Hovhannes-Gasparyan.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Task3-Hovhannes-Gasparyan\Task3-Hovhannes-Gasparyan\obj\Debug\net8.0\ref\Task3-Hovhannes-Gasparyan.dll
